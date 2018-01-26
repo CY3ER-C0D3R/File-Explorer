@@ -1,0 +1,29 @@
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\obj\Debug\File Explorer.csprojResolveAssemblyReference.cache
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.Cache
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
+d:\document\doc\visual studio 2013\Projects\File Explorer\File Explorer\obj\Debug\File_Explorer.Form1.resources
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File Explorer.csprojResolveAssemblyReference.cache
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File_Explorer.Form1.resources
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.Cache
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
+F:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File_Explorer.New_File_Dialog.resources
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File Explorer.csprojResolveAssemblyReference.cache
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File_Explorer.Form1.resources
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File_Explorer.New_File_Dialog.resources
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File_Explorer.Properties.Resources.resources
+E:\School\cyber\יב\WinForms\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.Cache
